@@ -1,11 +1,11 @@
 <!-- Animated header (waving gradient) -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Somia%20Sherif&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%C2%B7%20Laravel%20%26%20PHP&descSize=20&descAlignY=58" alt="Somia Sherif - Backend Developer" />
+<img width="100%" src="./assets/header.svg" alt="Somia Sherif - Backend Developer" />
 
 <!-- Typing animation -->
 <a href="https://github.com/SomiaSherif25">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2C9CDB&center=true&vCenter=true&width=700&lines=Building+scalable+SaaS+platforms+with+Laravel;Designing+secure+RESTful+APIs;Service-Oriented+Architecture+%26+Clean+Code;Optimizing+MySQL+for+performance+at+scale" alt="Typing animation" />
+  <img src="./assets/typing.svg" alt="Typing animation" />
 </a>
 
 <br/>
@@ -113,6 +113,6 @@ Backend Developer specializing in **Laravel** and **PHP**, currently building **
 
 *Clean code. Reliable systems. Real business impact.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" alt="footer" />
+<img width="100%" src="./assets/footer.svg" alt="footer" />
 
 </div>
