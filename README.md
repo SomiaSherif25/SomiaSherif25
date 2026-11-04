@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Somia 👋
 
-<!--
-**SomiaSherif25/SomiaSherif25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer** specializing in Laravel & PHP, building clean, scalable RESTful APIs and service-oriented web applications.
 
-Here are some ideas to get you started:
+I'm based in Cairo, Egypt, with a B.Sc. in Computer Science from Helwan University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## What I focus on
+
+- RESTful API design and authentication (Laravel Sanctum)
+- Service-oriented architecture and design patterns
+- Multi-tenancy and multi-branch systems
+- Blade-based frontends
+
+## Featured projects
+
+| Project | What it shows |
+|---|---|
+| [multi-tenancy](https://github.com/SomiaSherif25/multi-tenancy) | Multi-tenant Laravel architecture |
+| [Laravel_Sanctum](https://github.com/SomiaSherif25/Laravel_Sanctum) | Token-based API authentication |
+| [API_app](https://github.com/SomiaSherif25/API_app) | RESTful API design |
+| [cv-creation](https://github.com/SomiaSherif25/cv-creation) | Blade/Laravel CV builder |
+
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
